@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.com/lismore/goflood.svg?branch=master)](https://travis-ci.com/lismore/goflood)
+
 # GoFlood
 A connection flood attack application written in Go
   - Enables security tester to perform a Denial of Service against a target of evaluation 
